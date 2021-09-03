@@ -15,3 +15,5 @@ and make sure to put rp-radio in the server.cfg as well
 THIS IS FOR ESX USERS
 
 orginal mod: https://github.com/FrazzIe/rp-radio
+
+Recoder https://github.com/AvarianKnight/rp-radio
