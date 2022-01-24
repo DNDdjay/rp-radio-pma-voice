@@ -1,4 +1,4 @@
-# pma-voice
+# pma-voice radio
 A voice system designed around the use of FiveM/RedM internal mumble server.
 This is the RP_radio from Frazzle/pma-voice
 
